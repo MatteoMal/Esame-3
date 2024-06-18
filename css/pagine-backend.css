@@ -1,0 +1,56 @@
+#nuovo{
+    border-style: groove;
+    color: #fff;
+    background-color: blue;
+    border-color: blue;
+    text-decoration: none;
+    border-width: 6px;
+}
+#nuovo:hover{
+    text-decoration: underline;
+    color: blue;
+    background-color: #fff;
+    border-color: #fff;
+}
+#torna{
+    border-style: groove;
+    color: #fff;
+    background-color: blue;
+    border-color: blue;
+    text-decoration: none;
+    border-width: 6px;
+}
+#torna:hover{
+    text-decoration: underline;
+    color: blue;
+    background-color: #fff;
+    border-color: #fff;
+}
+.modifica{
+    border-style: groove;
+    color: #fff;
+    background-color: blue;
+    border-color: blue;
+    text-decoration: none;
+    border-width: 6px;
+}
+.modifica:hover{
+    text-decoration: underline;
+    color: blue;
+    background-color: #fff;
+    border-color: #fff;
+}
+.elimina{
+    border-style: groove;
+    color: #fff;
+    background-color: red;
+    border-color: red;
+    text-decoration: none;
+    border-width: 6px;
+}
+.elimina:hover{
+    text-decoration: underline;
+    color: red;
+    background-color: #fff;
+    border-color: #fff;
+}
